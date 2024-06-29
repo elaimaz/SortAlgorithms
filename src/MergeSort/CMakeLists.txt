@@ -1,0 +1,1 @@
+add_library(MergeSort STATIC ${CMAKE_CURRENT_SOURCE_DIR}/src/TextUtils.cpp)

@@ -1,2 +1,2 @@
 # SortAlgorithms
-Some Sort Algorithms mad in C++
+Some Sort Algorithms made in C++
